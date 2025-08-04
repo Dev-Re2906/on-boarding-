@@ -9,7 +9,7 @@
     },
     "devDependencies": {
         "@ton/blueprint": "^0.25.0",
-        "@ton/sandbox": "^0.22.0",
+        "@ton/sandbox": "^0.36.0",
         "@ton/test-utils": "^0.4.2",
         "@types/jest": "^29.5.14",
         "@types/node": "^22.8.7",
